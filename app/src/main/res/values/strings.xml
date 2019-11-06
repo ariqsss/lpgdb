@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">LPGdb</string>
+    <string name="edit_username">Username</string>
+    <string name="edit_password">Password</string>
+    <string name="button_login">Login</string>
+    <string name="button_home">Home</string>
+    <string name="button_order">Order</string>
+    <string name="toolbar_order">ORDER</string>
+    <string name="button_penjualan">Penjualan</string>
+    <string name="toolbar_penjualan">PENJUALAN</string>
+    <string name="button_profile">Profile</string>
+    <string name="toolbar_profile">PROFILE</string>
+    <string name="field_jumlah">Jumlah Tabung</string>
+    <string name="field_tanggal">Tanggal Pengiriman</string>
+    <string name="field_harga">Harga</string>
+    <string name="button_makeorder">Buat Order</string>
+    <string name="button_neworder">Buat Order Baru</string>
+    <string name="penjualan_nama">Nama Pembeli</string>
+    <string name="penjualan_rt">RT</string>
+    <string name="penjualan_um">UM</string>
+    <string name="penjualan_lainnya">Lainnya</string>
+    <string name="penjualan_alamat">Alamat Pembeli</string>
+    <string name="penjualan_jumlah">Jumlah Tabung</string>
+    <string name="penjualan_tanggal">Tanggal Pembelian</string>
+    <string name="penjualan_button">Tambah Penjualan</string>
+    <string name="signup_button">Sign Up</string>
+    <string name="settinghet_button">Buat Pangkalan Baru</string>
+    <string name="statuspenjualan">Status</string>
+
+
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string-array name="status_penjualan">
+        <item>RT</item>
+        <item>UM</item>
+        <item>Lainnya</item>
+
+    </string-array>
+
+    <string name="button_newpenjualan">Buat Penjualan Baru</string>
+    <string name="profile_nama">Ariq Sudibyo</string>
+    <string name="profile_pangkalan">ID_Pangkalan</string>
+    <string name="profile_agen">ID_Agen</string>
+    <string name="profile_het">HET</string>
+    <string name="currency_rp">Rp</string>
+    <string name="button_signup_pangkalan">Sign Up Pangkalan</string>
+    <string name="button_signup_agen">Sign Up Agen</string>
+    <string name="setting_agen">Setting HET</string>
+    <string name="settingagen_idpangkalan">ID Pangkalan</string>
+    <string name="settingagen_namapangkalan">Nama Pangkalan</string>
+    <string name="settingagen_hargapangkalan">Harga Pangkalan</string>
+    <string name="settingagen_tglefektif">Tanggal Efektif</string>
+    <string name="settingagen_nohppangkalan">Nomor HP Pangkalan</string>
+    <string name="settingagen_emailpangkalan">Email Pangkalan</string>
+    <string name="settingagen_pintransaksi">PIN Transaksi</string>
+</resources>

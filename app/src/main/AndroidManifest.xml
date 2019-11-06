@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.lpgdb">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        <activity android:name=".Setting_agen_form"></activity>
+        <activity android:name=".Profile_agen" />
+        <activity android:name=".Setting_agen" />
+        <activity android:name=".Order_agen" />
+        <activity android:name=".Home_agen" />
+        <activity android:name=".signup_agen" />
+        <activity android:name=".signup_pangkalan" />
+        <activity android:name=".Profile" />
+        <activity android:name=".Penjualan" />
+        <activity android:name=".PenjualanForm" />
+        <activity android:name=".Order" />
+        <activity android:name=".OrderForm" />
+        <activity android:name=".Home" />
+        <activity android:name=".MainActivity">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
